@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.instagram.com/xo._bruce/">「 Instagram Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
