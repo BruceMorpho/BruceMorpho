@@ -60,22 +60,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=BruceMorpho&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <a href="https://github.com/BruceMorpho">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruce&theme=radical&border=7F3FBF&background=0D1117" alt="Bruce's GitHub streak"/>
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xobruce) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
