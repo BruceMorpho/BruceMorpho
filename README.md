@@ -5,8 +5,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://media.giphy.com/media/3ohhwNdo0Kii1noM4U/giphy.gif" alt="Coding gif" />
-  
+ 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime [here](https://www.instagram.com/xo._bruce/)<br/><br/>
