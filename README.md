@@ -74,9 +74,6 @@
   <a href="https://github.com/BruceMorpho">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruce&theme=radical&border=7F3FBF&background=0D1117" alt="Bruce's GitHub streak"/>
 
-![Bruce's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruce&custom_title=Bruce's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xobruce) 
 
