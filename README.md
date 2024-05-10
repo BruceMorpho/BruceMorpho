@@ -6,10 +6,10 @@
  
 <p>
  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ <b>✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime [here](https://www.instagram.com/xo._bruce/)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://www.instagram.com/xo._bruce/)
+ 💬 &emsp; Ask me about anything [here](https://www.instagram.com/xo._bruce/)</b>
 
 </p>
 
