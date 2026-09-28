@@ -10,8 +10,8 @@
  
  <b>✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime [here](https://www.instagram.com/xo._bruce/)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://www.instagram.com/xo._bruce/)</b>
+ 📧 &emsp; Reach me anytime [here](https://www.instagram.com/thepurushothverse?stkn=MTVkdXl1N2RuM3A1ZA==)<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://www.instagram.com/thepurushothverse?stkn=MTVkdXl1N2RuM3A1ZA==)</b>
 
 </p>
 
